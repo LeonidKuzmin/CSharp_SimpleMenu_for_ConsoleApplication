@@ -1,5 +1,4 @@
-# CSharp_SimpleMenu_for_ConsoleApplication
-C# Simple Menu for Console Application
+# C# Simple Menu for Console Application
 
 Простое меню для консольной программы на C#
 
